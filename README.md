@@ -37,6 +37,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 * [SEQPAR](http://www.spoj.com/problems/SEQPAR/) (binary search in segment tree)
 * [TRIPINV](http://www.spoj.com/problems/TRIPINV/)
 * [CDC12_H](http://www.spoj.com/problems/CDC12_H/)
+* [BRCKTS](http://www.spoj.com/problems/BRCKTS/)
 
 ## Graph Theory
 
